@@ -7,3 +7,5 @@ This project focuses on measuring time spent in outdoor recreational areas (ORAs
 - Applies staypoint clustering methods to identify meaningful visits  
 - Performs spatiotemporal processing of GPS traces to extract ORA visits and estimate their duration  
 
+### Instructions
+- Run the scripts in the order provided within the project directories to reproduce the workflow.
